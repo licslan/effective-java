@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14a0099-eaa8-4ecd-9a20-c31feecfe5f6" name="Default" comment="" />
+    <list default="true" id="e14a0099-eaa8-4ecd-9a20-c31feecfe5f6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/chapter_1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_01/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2/BuliderMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_02/BuliderMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2/NutritionFactss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_02/NutritionFactss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_02/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_02/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_5/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_05/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_6/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_06/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_07/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_8/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_08/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_9/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_09/Todo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,81 +25,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_1/readme.md">
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_04/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_05/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_06/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_07/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_08/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_09/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_10/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_11/Todo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="effective-java.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/effective-java.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="30" selection-start-column="30" selection-end-column="30" />
-              </first_editor>
+              <first_editor />
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/StaticMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
-              <folding>
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuliderMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/BuliderMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="20" />
-              <folding>
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#2241#2242#0" expanded="true" />
-                <element signature="e#2282#2283#0" expanded="true" />
-                <element signature="e#2331#2332#0" expanded="true" />
-                <element signature="e#2379#2380#0" expanded="true" />
-                <element signature="e#2428#2429#0" expanded="true" />
-                <element signature="e#2476#2477#0" expanded="true" />
-                <element signature="e#2515#2516#0" expanded="true" />
-                <element signature="e#2553#2554#0" expanded="true" />
-                <element signature="e#2598#2599#0" expanded="true" />
-                <element signature="e#2642#2643#0" expanded="true" />
-                <element signature="e#2699#2700#0" expanded="true" />
-                <element signature="e#2755#2756#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NutritionFactss.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/NutritionFactss.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#1144#1145#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +100,14 @@
         <option value="$PROJECT_DIR$/src/chapter_2/NutritionFactss.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/BuliderMethod.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/chapter_4/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_5/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_6/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_7/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_8/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_9/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_10/Todo.java" />
+        <option value="$PROJECT_DIR$/src/chapter_11/Todo.java" />
       </list>
     </option>
   </component>
@@ -123,7 +120,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="242" />
     <option name="y" value="30" />
     <option name="width" value="1458" />
@@ -163,6 +160,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter_11" />
+      <recent name="chapter_10" />
+      <recent name="chapter_9" />
+      <recent name="chapter_8" />
+      <recent name="chapter_7" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hwl\Desktop\面试总结\effective-java\src" />
     </key>
@@ -181,12 +185,12 @@
   </component>
   <component name="RunManager">
     <configuration name="NutritionFactss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.NutritionFactss" />
+      <option name="MAIN_CLASS_NAME" value="chapter_02.NutritionFactss" />
       <module name="effective-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_2.*" />
+          <option name="PATTERN" value="chapter_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,15 +252,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533262315999</updated>
-      <workItem from="1533262318879" duration="7377000" />
+      <workItem from="1533262318879" duration="7741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7377000" />
+    <option name="totallyTimeSpent" value="7741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-245" y="153" width="1166" height="706" extended-state="1" />
+    <frame x="194" y="24" width="1166" height="706" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -296,7 +301,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/StaticMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter_02/StaticMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -310,7 +315,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_1/readme.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter_01/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -320,7 +325,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/BuliderMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter_02/BuliderMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="20" />
@@ -343,7 +348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/NutritionFactss.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter_02/NutritionFactss.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
           <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
@@ -354,7 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter_02/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
           <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
@@ -362,6 +367,48 @@
             <element signature="e#622#623#0" expanded="true" />
             <element signature="e#653#654#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_03/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_04/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_05/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_06/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_07/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_08/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_09/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_10/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_11/Todo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/effective-java.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>

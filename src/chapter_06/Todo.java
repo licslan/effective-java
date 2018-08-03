@@ -1,4 +1,4 @@
-package chapter_3;
+package chapter_06;
 
 public class Todo {
 }

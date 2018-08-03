@@ -1,4 +1,4 @@
-package chapter_2;
+package chapter_02;
 /**
  * 【第2章---创建对象和销毁对象】
  * 2.遇到多个构造器参数时要考虑使用构建器
