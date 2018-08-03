@@ -44,7 +44,23 @@ public class Singleton {
      * 对于静态方法 Singleton.getSingleton的所有调用，都会返回
      * 同一个对象引用，所以永远不会创建其他的实例
      * 公有域方法的主要好处在于组成的成员的申明很清楚的申明了这是一个singleton
+     * 公有的静态域是final的，所以该域将总是包含相同的对象引用，公有域方法在性能上不再有
+     * 任何优势，现代JVM实现几乎都能够将静态工厂方法的调用内联化
+     * 工厂方法的优势之一在于它提供了灵活性在不改变API前提下，我们可以
+     * 改变该类是否应该为singtelon的想法
+     *
+     *
+     * 1.5 jdk ++  枚举实现singleton
      * */
+
+    /*public enum Singleton {
+
+        INSTANCE;
+
+        public  void leaveTheBuilding(){}
+
+    }*/
+
 
 
 
